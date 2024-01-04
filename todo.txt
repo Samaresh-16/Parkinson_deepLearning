@@ -10,3 +10,14 @@ Dopamaaaain kome gele ki hbe?
 Motor UPDRS Score
 WTF!! Gota paper e to changed?!!
 (G) Reference a add korte hbe ieee tanjacshan
+
+-----------------
+ASOL KAAJ DEFINED
+-----------------
+
+1. III. Methodology -> Dataset -> Data Collection e duto dataset combine korte hobe jaate UPDRS ta insert kora jaye.
+2. UPDRS er NN banate hobe and Error, ROC, PR, Classification Report etc sob laagbe.
+3. UPDRS er Dataset Analysis Insights laagbe.
+4. Comparison with other papers thik thak bhabe korte hobe.
+5. experimental Results guchiye onek tai change hbe.
+6. 
