@@ -15,9 +15,10 @@ WTF!! Gota paper e to changed?!!
 ASOL KAAJ DEFINED
 -----------------
 
-1. III. Methodology -> Dataset -> Data Collection e duto dataset combine korte hobe jaate UPDRS ta insert kora jaye.
-2. UPDRS er NN banate hobe and Error, ROC, PR, Classification Report etc sob laagbe.
-3. UPDRS er Dataset Analysis Insights laagbe.
-4. Comparison with other papers thik thak bhabe korte hobe.
-5. experimental Results guchiye onek tai change hbe.
+1. III. Methodology -> Dataset -> Data Collection e duto dataset combine korte hobe jaate UPDRS ta insert kora jaye. (Done)
+2. UPDRS er NN banate hobe (Done) and Error, ROC, PR, Classification Report etc sob laagbe. (Sohom)
+3. UPDRS er Dataset Analysis Insights laagbe. (Done)
+3.5. Insights gulo paper a add korte lagbe. (Sumanta)
+4. Comparison with other papers thik thak bhabe korte hobe. (Samaresh)
+5. experimental Results guchiye onek tai change hbe. (Sobai)
 6. 
