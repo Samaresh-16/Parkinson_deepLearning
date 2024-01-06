@@ -21,4 +21,4 @@ ASOL KAAJ DEFINED
 3.5. Insights gulo paper a add korte lagbe. (Sumanta)
 4. Comparison with other papers thik thak bhabe korte hobe. (Samaresh)
 5. experimental Results guchiye onek tai change hbe. (Sobai)
-6. 
+6. MOdel slection change.
