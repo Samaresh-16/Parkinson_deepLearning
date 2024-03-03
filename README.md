@@ -1,2 +1,2 @@
-# Alok-Mastor
-Alok mastor er jabotio kaaj
+# Parkinson deep learning
+All the material regarding the project are stored here.
